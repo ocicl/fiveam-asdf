@@ -1,0 +1,10 @@
+* fiveam-asdf
+
+ASDF plug-in for defining test systems based on the FiveAM test library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rpgoldman/fiveam-asdf.git   |
+| commit  | 7f11d9f  |
+| systems | fiveam-asdf |
+|---------+-------------------------------------------|
+
